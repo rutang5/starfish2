@@ -1,3 +1,3 @@
 # testing
 
-[Page 1](readme.md)
+[Page 1](README.md)
