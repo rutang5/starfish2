@@ -1,6 +1,8 @@
 # starfish2
 ## hello, world!
 
+![Starfish](starfish.jpg)
+
 - ocean
 - sand
 - seahorses
